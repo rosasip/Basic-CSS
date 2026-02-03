@@ -1,0 +1,51 @@
+
+body { /* Body styling */
+     background-color: lightblue;
+}
+h1 {  /* Header 1 */
+    text-align: center;
+}
+#paragraph2 { /* Paragraph with ID paragraph2 */
+    border: 3px solid green;
+    background-color: white;
+    padding: 20px;
+    width: 60%;
+    margin-bottom: 10px;
+    font-style: italic;
+}
+.blue { /* Class blue in the html file */
+    background-color: #00008b;  /* dark blue */
+    color: white;
+    padding: 15px;
+    border: 2px solid black;
+    margin-bottom: 20px;
+}
+/* List Styling - Forces the '01, 02' format */
+ol {
+    list-style-type: decimal-leading-zero;
+}
+a[href*="w3schools"] {
+    color: #FF7F7F; 
+}
+/* --- THE TABLE PORTION --- */
+
+/* Sets the solid black borders and makes them overlap */
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse; 
+    padding: 8px;
+    color: black; /* Makes text inside table readable */
+}
+table {
+    width: 60%;
+    background-color: white;
+    margin-top: 10px;
+}
+/* Header background (Tag and Description) - Darker Gray */
+th {
+    background-color: #D3D3D3; 
+}
+/* Cell background - Pure White */
+td {
+    background-color: #FFFFFF;
+}
