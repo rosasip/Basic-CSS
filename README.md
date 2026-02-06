@@ -1,6 +1,6 @@
 # Basic-CSS
 
-For this assignment, reference the attached HTML file [5_CSS1-1.html](https://github.com/user-attachments/files/25055057/5_CSS1-1.html)
+Reference the attached HTML file [5_CSS1-1.html](https://github.com/user-attachments/files/25055057/5_CSS1-1.html)
 Download attached HTML file.  Your job is to create the CSS (use an external .css file, as indicated in the <link> tag) to replicate the below images, as closely as possible.
 
 Requirements:
